@@ -617,6 +617,14 @@ footer {
  display: none;
 }
 
+.text-smaller{
+ font-size: 12px; 
+}
+
+.text-small{
+font-size: 17px;
+}	
+	
 .btn-center{
 float: center;
 position: absolute;
