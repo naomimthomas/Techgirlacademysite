@@ -617,6 +617,10 @@ footer {
  display: none;
 }
 
+.padding-mobile{
+	padding:0px;
+	}
+	
 .text-smaller{
  font-size: 17px; 
 }
